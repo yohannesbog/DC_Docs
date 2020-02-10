@@ -1,0 +1,74 @@
+
+
+#side-nav{
+    border: 1px green solid;
+    width: 300px;
+    height: 100vw;
+    display: block;
+    float: left;
+    position: fixed;
+    margin-left: 0 auto; 
+    background-color: rgb(59, 57, 57);
+    padding-left: 20px;
+
+
+}
+
+.nav-menu {
+    color:gray;
+    padding: 30px;
+    list-style-type: none;
+    line-height: 40px;
+    font-size: 20px;
+}
+a {
+    color: gray;
+    text-decoration: none;
+  }
+  a:hover{
+      color: aliceblue
+  }
+
+#header {
+    width: 76.7%;
+    height: 100vw;
+    margin-left: 0 auto; 
+    display: block;
+    float: right;
+    position: relative;
+    overflow: scroll;
+}
+.welcome {
+    font-size: 18px;
+    margin-top:20px;
+    margin-left: 10px
+   
+}
+.logo {
+    height: 50px;
+    width: 100px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 30px;
+    margin: 0 auto;
+
+
+}
+
+#title {
+    font-size: 30px
+}
+.introduction, .motivation, .campus  {
+    padding-left: 100px;
+    padding-right: 70px;
+}
+
+
+.quote {
+    padding-right: 200px;
+    margin-left: 5px;
+    font-family: cursive;
+    text-align: right
+}
+
+
